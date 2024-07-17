@@ -1,0 +1,13 @@
+{
+    "input_dim": 16,
+    "d_model": 320,
+    "nhead": 16,
+    "num_layers": 1,
+    "dropout": 0.1,
+    "output_dim": 7,
+    "metrics": {
+        "MAE": 0.028846396133303642,
+        "RMSE": 0.03972785174846649,
+        "SMAPE": 10.999103784561157
+    }
+}
